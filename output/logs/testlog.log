@@ -1,0 +1,9 @@
+2023-07-19 00:48:19,435 - logger_file -INFO - React App is equal to React App
+2023-07-19 00:48:19,797 - logger_file -INFO - user clicked on Sign In option
+2023-07-19 00:48:19,938 - logger_file -INFO - user entered email april.khalifat00@gmail.com and password Tek@12345
+2023-07-19 00:48:20,192 - logger_file -INFO - user clicked on login button
+2023-07-19 00:50:38,546 - logger_file -INFO - React App is equal to React App
+2023-07-19 00:50:38,878 - logger_file -INFO - user clicked on Sign In option
+2023-07-19 00:50:39,010 - logger_file -INFO - user entered email april.khalifat@gmail.com and password Tek@1234
+2023-07-19 00:50:39,268 - logger_file -INFO - user clicked on login button
+2023-07-19 00:50:39,763 - logger_file -INFO - user logged in into account
